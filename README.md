@@ -1,7 +1,7 @@
 # groupChat-sockets
 *its not finished yet. need to work on [WinError 10057] that appears in serverChat.py and others minor errors.*
 
-- This directory contains my project for the computers' networks class.
+- This repository contains my project for the computers' networks class.
 - It consists in two .py archives (client.py and serverChat.py).
 
   This project was made using sockets and threads to make an application that resambles a chat app that have following fuctions:
